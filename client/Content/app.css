@@ -1,0 +1,14 @@
+/* Custom CSS goes here */
+body {
+  padding-bottom: 70px;
+}
+
+.title-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.w-130 {
+  width: 130px;
+}
